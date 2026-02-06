@@ -34,6 +34,7 @@ Tengo interés en fortalecer mis habilidades en desarrollo backend, frontend y b
 ---
 
 ## Conecta conmigo
-Web: [](https://quispee.github.io/MiPerfil/perfil.html)
-WhatsApp:[](https://wa.me/51950654906)
-GitHub: [](https://github.com/Quispee)
+Web: [https://quispee.github.io/MiPerfil/perfil.html](https://quispee.github.io/MiPerfil/perfil.html)  
+WhatsApp: [https://wa.me/51950654906](https://wa.me/51950654906)  
+GitHub: [https://github.com/Quispee](https://github.com/Quispee)
+
