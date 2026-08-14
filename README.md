@@ -1,4 +1,4 @@
-# Hola, soy Pelayo Yuler Quispe
+# Hola, soy Yuler Quispe
 
 Técnico Desarrollador de Software  
 Perú - Lima (Comas)
