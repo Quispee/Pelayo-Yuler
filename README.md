@@ -1,12 +1,12 @@
 # Hola, soy Yuler Quispe
 
-Técnico Desarrollador de Software  
+ Desarrollador de Software  
 Perú - Lima (Comas)
 
 ---
 
 ## Sobre mí
-Soy técnico desarrollador de software, apasionado por la tecnología y la creación de sistemas informáticos.  
+Soy  desarrollador de software, apasionado por la tecnología y la creación de sistemas informáticos.  
 Me encuentro en constante aprendizaje y enfocado en desarrollar soluciones prácticas como sistemas de ventas, asistencias y gestión.
 
 Tengo interés en fortalecer mis habilidades en desarrollo backend, frontend y bases de datos.
